@@ -1,0 +1,54 @@
+20 unexpected lines in ifPrintInputNoErrors.txt.out
+4 unexpected lines in letLambdaErrors.txt.out
+16 unexpected lines in letLambdaNoErrors.txt.out
+100 unexpected lines in noSyntaxError.txt.out
+40 unexpected lines in operatorsErrors.txt.out
+56 unexpected lines in operatorsNoErrors.txt.out
+
+0 unexpected lines in ifPrintInputErrors.txt.out
+20 unexpected lines in ifPrintInputNoErrors.txt.out
+0 unexpected lines in letLambdaErrors.txt.out
+0 unexpected lines in ifPrintInputErrors.txt.out
+20 unexpected lines in ifPrintInputNoErrors.txt.out
+0 unexpected lines in letLambdaErrors.txt.out
+16 unexpected lines in letLambdaNoErrors.txt.out
+96 unexpected lines in noSyntaxError.txt.out
+36 unexpected lines in operatorsErrors.txt.out
+52 unexpected lines in operatorsNoErrors.txt.out
+
+12 unexpected lines in ifPrintInputErrors.txt.out
+45 unexpected lines in ifPrintInputNoErrors.txt.out
+8 unexpected lines in letLambdaErrors.txt.out
+50 unexpected lines in letLambdaNoErrors.txt.out
+306 unexpected lines in noSyntaxError.txt.out
+119 unexpected lines in operatorsErrors.txt.out
+162 unexpected lines in operatorsNoErrors.txt.out
+
+12 unexpected lines in ifPrintInputErrors.txt.out
+45 unexpected lines in ifPrintInputNoErrors.txt.out
+8 unexpected lines in letLambdaErrors.txt.out
+50 unexpected lines in letLambdaNoErrors.txt.out
+0 unexpected lines in ifPrintInputErrors.txt.out
+20 unexpected lines in ifPrintInputNoErrors.txt.out
+0 unexpected lines in letLambdaErrors.txt.out
+16 unexpected lines in letLambdaNoErrors.txt.out
+96 unexpected lines in noSyntaxError.txt.out
+36 unexpected lines in operatorsErrors.txt.out
+52 unexpected lines in operatorsNoErrors.txt.out
+
+12 unexpected lines in ifPrintInputErrors.txt.out
+45 unexpected lines in ifPrintInputNoErrors.txt.out
+8 unexpected lines in letLambdaErrors.txt.out
+50 unexpected lines in letLambdaNoErrors.txt.out
+306 unexpected lines in noSyntaxError.txt.out
+119 unexpected lines in operatorsErrors.txt.out
+162 unexpected lines in operatorsNoErrors.txt.out
+
+0 unexpected lines in ifPrintInputErrors.txt.out
+20 unexpected lines in ifPrintInputNoErrors.txt.out
+0 unexpected lines in letLambdaErrors.txt.out
+16 unexpected lines in letLambdaNoErrors.txt.out
+96 unexpected lines in noSyntaxError.txt.out
+36 unexpected lines in operatorsErrors.txt.out
+52 unexpected lines in operatorsNoErrors.txt.out
+

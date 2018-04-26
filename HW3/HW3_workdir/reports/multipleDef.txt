@@ -1,0 +1,32 @@
+TOKEN: LPAREN  LEXEME: (					TOKEN: LPAREN    LEXEME: (
+TOKEN: LETSTAR  LEXEME: let*					TOKEN: LETSTAR   LEXEME: let*
+
+___Entering new scope...					___Entering new scope...
+
+TOKEN: LPAREN  LEXEME: (					TOKEN: LPAREN    LEXEME: (
+ID_EXPR_LIST -> epsilon						ID_EXPR_LIST -> epsilon
+TOKEN: LPAREN  LEXEME: (					TOKEN: LPAREN    LEXEME: (
+TOKEN: IDENT  LEXEME: x						TOKEN: IDENT     LEXEME: x
+TOKEN: INTCONST  LEXEME: 5					TOKEN: INTCONST  LEXEME: 5
+CONST -> INTCONST						CONST -> INTCONST
+EXPR -> CONST							EXPR -> CONST
+TOKEN: RPAREN  LEXEME: )					TOKEN: RPAREN    LEXEME: )
+ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )			ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )
+___Adding x to symbol table					___Adding x to symbol table
+TOKEN: LPAREN  LEXEME: (					TOKEN: LPAREN    LEXEME: (
+TOKEN: IDENT  LEXEME: y						TOKEN: IDENT     LEXEME: y
+TOKEN: STRCONST  LEXEME: "hello"				TOKEN: STRCONST  LEXEME: "hello"
+CONST -> STRCONST						CONST -> STRCONST
+EXPR -> CONST							EXPR -> CONST
+TOKEN: RPAREN  LEXEME: )					TOKEN: RPAREN    LEXEME: )
+ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )			ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )
+___Adding y to symbol table					___Adding y to symbol table
+TOKEN: LPAREN  LEXEME: (					TOKEN: LPAREN    LEXEME: (
+TOKEN: IDENT  LEXEME: x						TOKEN: IDENT     LEXEME: x
+TOKEN: INTCONST  LEXEME: 1					TOKEN: INTCONST  LEXEME: 1
+CONST -> INTCONST						CONST -> INTCONST
+EXPR -> CONST							EXPR -> CONST
+TOKEN: RPAREN  LEXEME: )					TOKEN: RPAREN    LEXEME: )
+ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )			ID_EXPR_LIST -> ID_EXPR_LIST ( IDENT EXPR )
+___Adding x to symbol table					___Adding x to symbol table
+Line 3: Multiply defined identifier				Line 3: Multiply defined identifier

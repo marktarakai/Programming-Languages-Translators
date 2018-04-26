@@ -1,0 +1,43 @@
+
+
+
+64 unexpected lines in exprList_noErrors.txt.out
+20 unexpected lines in lambda_noErrors.txt.out
+20 unexpected lines in let_noErrors.txt.out
+4 unexpected lines in multipleDef.txt.out
+28 unexpected lines in nestedLetLambda_noErrors.txt.out
+80 unexpected lines in nestedLet_noErrors.txt.out
+36 unexpected lines in undef.txt.out
+
+4 unexpected lines in exprList_noErrors.txt.out
+4 unexpected lines in lambda_noErrors.txt.out
+4 unexpected lines in let_noErrors.txt.out
+4 unexpected lines in multipleDef.txt.out
+8 unexpected lines in nestedLetLambda_noErrors.txt.out
+44 unexpected lines in nestedLet_noErrors.txt.out
+24 unexpected lines in undef.txt.out
+
+0 unexpected lines in exprList_noErrors.txt.out
+0 unexpected lines in lambda_noErrors.txt.out
+0 unexpected lines in let_noErrors.txt.out
+4 unexpected lines in multipleDef.txt.out
+0 unexpected lines in nestedLetLambda_noErrors.txt.out
+0 unexpected lines in nestedLet_noErrors.txt.out
+4 unexpected lines in undef.txt.out
+
+0 unexpected lines in exprList_noErrors.txt.out
+0 unexpected lines in lambda_noErrors.txt.out
+0 unexpected lines in let_noErrors.txt.out
+0 unexpected lines in multipleDef.txt.out
+0 unexpected lines in nestedLetLambda_noErrors.txt.out
+0 unexpected lines in nestedLet_noErrors.txt.out
+0 unexpected lines in undef.txt.out
+
+0 unexpected lines in exprList_noErrors.txt.out
+0 unexpected lines in lambda_noErrors.txt.out
+0 unexpected lines in let_noErrors.txt.out
+0 unexpected lines in multipleDef.txt.out
+0 unexpected lines in nestedLetLambda_noErrors.txt.out
+0 unexpected lines in nestedLet_noErrors.txt.out
+0 unexpected lines in undef.txt.out
+
